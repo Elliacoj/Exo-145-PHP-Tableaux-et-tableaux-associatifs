@@ -23,8 +23,8 @@ forEach($age as  $x =>  $y) {
 
 $colors = array("red", "green", "blue", "yellow");
 ;
-asort($colors);
-arsort($colors);
+sort($colors);
+rsort($colors);
 
 // Quatrieme ligne
 
